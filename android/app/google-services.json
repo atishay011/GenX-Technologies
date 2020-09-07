@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053087522321",
+    "firebase_url": "https://a2b-f259d.firebaseio.com",
+    "project_id": "a2b-f259d",
+    "storage_bucket": "a2b-f259d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053087522321:android:9a5b4413c87417921e5bb0",
+        "android_client_info": {
+          "package_name": "com.genxtechnologies.a2b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053087522321-b4moek0ropt0481kt8qiut9qfevr4id9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoG2U5HGS8a5WcLo4GIOa0v-Rxy7ogVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053087522321-b4moek0ropt0481kt8qiut9qfevr4id9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
